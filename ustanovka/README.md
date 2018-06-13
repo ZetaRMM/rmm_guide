@@ -11,7 +11,7 @@
 
 ![](https://lh6.googleusercontent.com/S30BEYIICRwKCWoJB76CJNS_fBpPVzyT57Ww4jg1tUsvVCIP_Clz3dAJVP69V5VzqnnmUvqw45ps6cictaFY8bznI5KDfoillmWMDwGa6-eIdtL0GjrZ5isQDSs9q_90-NNacataPbznt1CW7Q)
 
-Выберите шаблон, который установили до этого
+5. Выберите шаблон, который установили до этого
 
 Укажите наименование информационной базы и выберите расположение
 
