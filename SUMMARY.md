@@ -3,7 +3,7 @@
 * [Введение](README.md)
 * [Установка](ustanovka/README.md)
   * [Регистрация продукта](ustanovka/registraciya-produkta.md)
-  * [Настройка веб-сервисов поставщиков](ustanovka/nastroika-veb-servisov-postavshikov.md)
+  * [Веб-сервисы поставщиков](ustanovka/nastroika-veb-servisov-postavshikov.md)
   * [Начальные настройки](ustanovka/nachalnye-nastroiki.md)
-  * [Изменение основной 1С](ustanovka/podklyuchenie-k-osnovnoi-1s.md)
+  * [Изменение основной 1С](ustanovka/izmenenie-osnovnoi-1s.md)
 
