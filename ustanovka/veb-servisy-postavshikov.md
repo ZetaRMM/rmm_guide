@@ -7,7 +7,7 @@
 
   ![](https://lh6.googleusercontent.com/YetUvSG10ArAEMZGJo8myMP6Xl68NjaB3iKQs7b0PUs1vRzqaG0OyCSX5DNaB66XLWoudrtY6KsZjaWZVRl0GMlTapL9JYYBEh_NYkIxPMednIU90PqLEtzRymsSH6qouyQyz3cv)
 
-* Введите параметры для создания номенклатуры и покупателей в базе, указав или выбрав соответствующие идентификаторы из вашей базы
+* Введите параметры для создания номенклатуры и покупателей в базе, указав или выбрав соответствующие идентификаторы из вашей базы \(если РММ настроен для работы с основной базой\).
 
   ![](https://lh6.googleusercontent.com/L3HMieWaNPUmDNqwweeFSpn_wueHe-lEmf2B5g8XqFZmE7HMwWE3f0WxofzgUd0UYq9gavZCB3hwYh7ZlJOWqxlpZktOc9BPQuuVW3fWH_0tBknfceMGvW3Plt96SNBG4DS0PqBt)
 
