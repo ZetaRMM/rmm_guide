@@ -20,13 +20,8 @@
 
 * Запустите РММ в режиме 1С: Предприятие и откройте “Информацию о лицензии”
 
-  ![](https://lh5.googleusercontent.com/vYo9f8Btgmr5ExbPgHp4J1pAXIkLkzg2betUlK9xhfVTW6RgTV5CFXulfkF3wmdwIL9OIsKfooyo4igU1tWsRlqJ0fwBMmzs_ES8VRXSlTvA8AoWbkRFulMxE6XmwzKn3gGdwH7s)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 * Введите «Ключ клиента» и «Пароль», нажмите «Записать и закрыть»
-
-  ![](https://lh6.googleusercontent.com/N1K4v46LE2thuv9JVPJlUc4yTTV90TeQZof9g98TifBj6FFdhcUHCD0wMKFhaNE7ddHb7Ywm09ZhKc3AKaHRawctcjx-uS2qYpmydlzREcXwg4bCTsVKusAPakGSWuF7DmMNIQtLAkUY8Qmk4g)
-
 * На закладке “Главное” выбираем “Открыть рабочее место менеджера”. В случае, если все описанные выше шаги проделаны верно, запустится окно основной интерфейс РММ и вы увидите сообщение о том, что лицензия успешно получена
-
-  ![](https://lh4.googleusercontent.com/IOzH-5cEqBQmmeFbSocxgUuccp7HE68zI9NvolAO57Fo11YWJGp4qAeCg5bxu-Y45HWY_gIfZc3n7leOBQKIFEjocs-2PoFyHNgBvmO-_FInFu2_3HMx3koRyIRKfAG-xmonm02SLxbdiADsTw)
 
